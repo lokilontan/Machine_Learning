@@ -1,0 +1,1 @@
+In this assignment I applied normalization/scaling/preprocessing/learning/visualization techniques using different libraries like seaborn, matplotlib, sklearn, pandas, Keras and Tensorflow. 
