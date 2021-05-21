@@ -1,1 +1,2 @@
 In this assignment I applied normalization/scaling/preprocessing/learning/visualization techniques using different libraries like seaborn, matplotlib, sklearn, pandas, Keras and Tensorflow. 
+In report_HW4 I use grid search to find an optimal number of neurons for each hidden layer. I use different optimization techniques and compare the metrics to determine the best model. I also practice calculating the backpropagation algorithm by hand.
