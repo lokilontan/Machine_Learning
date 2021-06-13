@@ -1,0 +1,1 @@
+In this assignment I am working on agglomerative clustering(hierarchical) and trying to cluster similar bitstrings into different clusters. 

@@ -1,0 +1,1 @@
+A small assignment on Decision Tree Classifier. Training the model, predicting, getting the scores and visualizing the tree.
